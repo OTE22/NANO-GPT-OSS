@@ -630,7 +630,7 @@ We welcome contributions! Here's how you can help:
 ```bash
 # Fork the repository
 # Clone your fork
-git clone https://github.com/YOUR_USERNAME/nano-gpt-oss
+git clone https://github.com/ote22/nano-gpt-oss
 cd nano-gpt-oss
 
 # Create a feature branch
